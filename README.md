@@ -6,6 +6,16 @@ The project is a shopping platform aka Ecommerce Shop where a user can buy produ
 2. Admin portal for adding , removing , updating the products on the platform
 3. Order placement and adding products to wishlist
 
+# Tech Stack
+1. React JS (Javascript)
+2. Bootstrap (Frontend Framework)
+3. React router dom
+4. Axios for API requests
+5. Express JS
+6. Joi for server side validation
+7. Mongoose (ORM for MongoDB)
+8. MongoDB Atlas (Database)
+
 # Project Overview (UI)
 
 # Home/ Landing Page
