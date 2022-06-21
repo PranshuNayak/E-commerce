@@ -4,7 +4,11 @@ const mongoose = require("mongoose");
 const { userRoutes } = require("./routes/User");
 const { productRoutes } = require("./routes/Product");
 const cors = require('cors')
+
+
 const app = express();
+
+
 
 mongoose
   .connect("mongodb://localhost/ECommerce")
