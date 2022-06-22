@@ -35,7 +35,7 @@ The project is a shopping platform aka Ecommerce Shop where a user can buy produ
 # Order placement
 ![order-2](https://user-images.githubusercontent.com/86283785/174956910-200b19c5-03af-4b36-b3f0-8966d71d27f0.jpg)
 
-#Order Summary
+# Order Summary
 ![order-3](https://user-images.githubusercontent.com/86283785/174956923-63b3457c-dfeb-4f6f-9c57-3f9ae4db4833.jpg)
 
 # Admin Portal
