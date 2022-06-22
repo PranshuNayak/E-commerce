@@ -5,6 +5,7 @@ The project is a shopping platform aka Ecommerce Shop where a user can buy produ
 1. User registration and authentication
 2. Admin portal for adding , removing , updating the products on the platform
 3. Order placement and adding products to wishlist
+4. Orders summary 
 
 # Tech Stack
 1. React JS (Javascript)
@@ -12,9 +13,10 @@ The project is a shopping platform aka Ecommerce Shop where a user can buy produ
 3. React router dom
 4. Axios for API requests
 5. Express JS
-6. Joi for server side validation
-7. Mongoose (ORM for MongoDB)
-8. MongoDB Atlas (Database)
+6. Json web tokens (JWT for authorisation)
+7. Joi for server side validation
+8. Mongoose (ORM for MongoDB)
+9. MongoDB Atlas (Database)
 
 # Project Overview (UI)
 
@@ -28,9 +30,13 @@ The project is a shopping platform aka Ecommerce Shop where a user can buy produ
 
 
 ![product-1](https://user-images.githubusercontent.com/86283785/174493472-8117cb4c-4e11-430d-a84a-00002c2699be.jpg)
+![product-2](https://user-images.githubusercontent.com/86283785/174956996-8033be5d-b221-4231-b466-f1e42e7243d4.jpg)
 
 # Order placement
- ![order-1](https://user-images.githubusercontent.com/86283785/174493405-305a511b-48fb-4866-951e-067a8d38ae3e.jpg)
+![order-2](https://user-images.githubusercontent.com/86283785/174956910-200b19c5-03af-4b36-b3f0-8966d71d27f0.jpg)
+
+#Order Summary
+![order-3](https://user-images.githubusercontent.com/86283785/174956923-63b3457c-dfeb-4f6f-9c57-3f9ae4db4833.jpg)
 
 # Admin Portal
 ![admin](https://user-images.githubusercontent.com/86283785/174493417-ef7403f9-65d0-45ce-b569-3747f114096a.jpg)
